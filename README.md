@@ -53,5 +53,19 @@ Users can upload a CSV file containing chemical equipment parameters and visuali
 ---
 
 ## Folder Structure
+chemical-equipment-visualizer/
+│
+├── backend/
+│   ├── app.py
+│   └── requirements.txt
+│
+├── web-frontend/
+│   └── index.html
+│
+├── desktop-app/
+│   └── app.py
+│
+├── sample_equipment_data.csv
+└── README.md
 
 
